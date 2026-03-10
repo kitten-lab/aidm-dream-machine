@@ -1,0 +1,31 @@
+# Container Grids
+
+Each [[Entity]] considered a [[Type: Location]] contains a Grid Map to define positions of other Entities contained within it (Container Grids).  Each [[Entity]] when defined has a relative [[scale]] associated to it. When an [[Entity]] is a [[Container]], that which is contained within it will be placed in relational Space via Grid Maps.
+
+### Example: The Tavern
+The Tavern is an [[Entity]] set as a [[Container]]. It has 2 floors and contains several Rooms and Zones inside of Rooms.
+
+## F-1 Zones
+Assuming the following is contained within the Tavern itself:
+```
+ven.Tavern/ven.TavernFloor1 contains(
+	ven.Fireplace004(2x2),
+	ven.Bar001(3x1),
+	ven.Door06>ven.Bathroom073(1x1),
+	ven.Stairs001>ven.Floor2(1x2),
+	ven.Door002>ven.ForestPlot045(1x1)
+)
+```
+Then EVE stores a Map Grid related to the position of these entities within the container.
+### Container Layout
+```
+PURPLE = ven.Fireplace004
+GREEN  = ven.Stairs001>ven.Floor2
+YELLOW = ven.Door06>ven.Bathroom073
+TEAL   = ven.Door002>ven.ForestPlot045
+RED    = ven.Bar001
+```
+![[Pasted image 20260309214432.png]]
+
+#future-self `note we want to allow randomize layout setting for generating and for Entities with reconfiguration=True`
+

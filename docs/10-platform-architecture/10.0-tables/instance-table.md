@@ -1,0 +1,8 @@
+```
+ALL ENTITIES CAN BE INSTANCED
+
+CAN BE INSTANCED   boolean true/false
+IS AN INSTANCE     
+ROOT INSTANCE
+```
+

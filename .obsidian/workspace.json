@@ -1,0 +1,259 @@
+{
+  "main": {
+    "id": "65bde5ec54c8e751",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9a081025241bd6d",
+        "type": "tabs",
+        "dimension": 59.541984732824424,
+        "children": [
+          {
+            "id": "c8ca4aedc8727969",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/10-platform-architecture/10.0-tables/location-grids.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "location-grids"
+            }
+          }
+        ]
+      },
+      {
+        "id": "558870a033326b15",
+        "type": "tabs",
+        "dimension": 40.458015267175576,
+        "children": [
+          {
+            "id": "5a87192431ee2b8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/10-platform-architecture/10.0-tables/entity-table.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "entity-table"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b24094437d981c7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "94519b3127929ff9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ded25d22182baeeb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "95dd74a114599b22",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "VEN",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "706bd36da7859407",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "c8595ed649f87dc5",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "Notebook Navigator"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 565.5
+  },
+  "right": {
+    "id": "1b9a960b7501cf1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc3fdf45878ed7ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8e1a835c0e63f88",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/10-platform-architecture/10.0-tables/location-grids.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for location-grids"
+            }
+          },
+          {
+            "id": "8273796eba7a42ea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/10-platform-architecture/10.0-tables/location-grids.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from location-grids"
+            }
+          },
+          {
+            "id": "5ebf49dbe03a125f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "337028d2cccd9ef4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0934780229e9caa4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/10-platform-architecture/10.0-tables/location-grids.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of location-grids"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "notebook-navigator:Notebook Navigator": false
+    }
+  },
+  "active": "c8ca4aedc8727969",
+  "lastOpenFiles": [
+    "Pasted image 20260309214432.png",
+    "docs/07multiplayer-systems/07.1-social-spaces.md",
+    "docs/10-platform-architecture/10.0-tables/location-grids.md",
+    "docs/10-platform-architecture/10.0-tables/turn-path-code-generator.md",
+    "docs/10-platform-architecture/10.5-system-language-examples.md",
+    "docs/00-introduction/00.5-core-terminology.md",
+    "docs/10-platform-architecture/10.0-tables/entity-prop-table.md",
+    "docs/10-platform-architecture/10.0-tables/entity-table.md",
+    "docs/10-platform-architecture/10.0-tables/instance-table.md",
+    "docs/00-introduction/00.2-what-is-the-dream-machine.md",
+    "docs/00-introduction/00.1-vision.md",
+    "docs/04-aidm-engine/04.6-aven-system.md",
+    "docs/07multiplayer-systems/07.3-adventure-instances.md",
+    "docs/11-future/11.1-visualization-engines.md",
+    "docs/01-system-core-concepts/01.4-narrative-fragments.md",
+    "docs/09-art-systems/09.1-scene-rendering.md",
+    "docs/09-art-systems/09.2-art-style-models.md",
+    "docs/09-art-systems/09.3-artist-training.md",
+    "docs/08-creator-economy/08.4-creator-rights.md",
+    "docs/10-platform-architecture/10.1-system-overview.md",
+    "docs/10-platform-architecture/10.2-world-instances.md",
+    "docs/10-platform-architecture/10.3-scaling-worlds.md",
+    "docs/11-future/11.2-simulation-expansion.md",
+    "docs/11-future/12.2-emergent-mythology.md",
+    "docs/11-future/12.4-ai-collaborators.md",
+    "docs/11-future",
+    "docs/10-platform-architecture/10.4-data-storage.md",
+    "docs/10-platform-architecture",
+    "docs/09-art-systems",
+    "docs/08-creator-economy",
+    "docs/07multiplayer-systems",
+    "docs/06-world-creation",
+    "docs/05-player-experience",
+    "docs/04-aidm-engine",
+    "docs/03-data-forestry",
+    "docs/02-narrative-data"
+  ]
+}
