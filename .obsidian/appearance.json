@@ -1,5 +1,6 @@
 {
   "textFontFamily": "Inter",
   "baseFontSize": 14,
-  "monospaceFontFamily": "Liberation Mono"
+  "monospaceFontFamily": "Liberation Mono",
+  "cssTheme": "Things"
 }
