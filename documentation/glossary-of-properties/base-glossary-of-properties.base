@@ -1,0 +1,38 @@
+model:
+  version: 1
+  kind: Table
+  columns: []
+pluginVersion: 1.0.0
+properties:
+  note.child of:
+    displayName: connects from
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("documentation/glossary-of-properties")
+        - file.hasProperty("Definition")
+    order:
+      - file.name
+      - Parent Type
+      - Usage
+      - child of
+      - Definition
+      - file.mtime
+    sort:
+      - property: Parent Type
+        direction: ASC
+      - property: file.name
+        direction: ASC
+      - property: Definition
+        direction: ASC
+      - property: child of
+        direction: DESC
+    columnSize:
+      file.name: 201
+      note.Usage: 483
+      note.child of: 222
+      note.Definition: 405
+  - type: table
+    name: View
