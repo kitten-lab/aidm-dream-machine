@@ -4,10 +4,6 @@ This is the working space for the following concept:
   Continuity and emergence of story generation is pivitol.
   Capacity for immersive collabrative world building.
 
-# What is **the Dream Machine?**
-
-Breakdown of the Dream Engine concept, how Entities and Properties create the world.
-
 # What is AIDM
 
 What is an AI assisted DM and why would we even want one?
