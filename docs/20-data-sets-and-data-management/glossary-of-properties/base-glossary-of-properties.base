@@ -11,7 +11,7 @@ views:
     name: Table
     filters:
       and:
-        - file.inFolder("documentation/glossary-of-properties")
+        - file.inFolder("docs/20-data-sets-and-data-management/glossary-of-properties")
         - file.hasProperty("Definition")
     order:
       - file.name

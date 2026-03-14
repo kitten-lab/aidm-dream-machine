@@ -3,16 +3,16 @@
 If you zoom way out, AIDM is basically:
 
 ```
-*=============================*
- +---------------------------+
- \|     A graph of VENs     |/
-  |           +             |
-  |     property engines    |
-  |           +             |
-  |     dynamic rulesets    |
-  |           +             |
- /|   narrative reasoning   |\
- +---------------------------+
+*==============================*
+ +----------------------------+
+ \|     A graph of VENs      |/
+  |           +              |
+  |     property engines     |
+  |           +              |
+  |     dynamic rulesets     |
+  |           +              |
+ /|   narrative reasoning    |\
+ +----------------------------+
 *==============================*
 ```
 
