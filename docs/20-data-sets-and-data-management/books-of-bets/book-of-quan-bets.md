@@ -1,4 +1,6 @@
-quans*   
+# quan.bets
+
+base.quan*   
 		0   -
 	
 		1	* 
