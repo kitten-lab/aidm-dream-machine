@@ -1,4 +1,4 @@
-# geos.alpha
+# pet.geos
 
 ```
 geo.statements
@@ -18,6 +18,7 @@ geo.actors.toolers
 	#  sequence
 	B  loop
 	P  generate
+	f  amount
 	
 geo.actors.cursors
 	.  point   
@@ -80,8 +81,8 @@ geo.directors.shapers
 	J   bend (curved plane)
 	L   fold (flat plane)
 	
-	D   extrude (bow out)
-	U   inset (bow in)
+	D   pull (bow out)
+	U   push (bow in)
 	
 	!   increase
 	?   decrease

@@ -1,3 +1,8 @@
+
+ven.2D-poly(f4){
+		$ f .
+		Z :N -_
+}
 ## **ven.2D-poly-quad**
 
 Code
