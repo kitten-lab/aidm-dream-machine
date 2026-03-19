@@ -1,11 +1,11 @@
 # Core System Architecture
 ## Overview (notes)
 
-## Meet AIDM
+### Meet AIDM
 
 AIDM (pronounced like *Adam*) is an AI Agent responsible for the management and organization of sprawling narratives played within the structure of MIRA. AIDM stands for AGENIC INTERACTIVE DREAM MODERATOR.
 
-## Meet MIRA
+### Meet MIRA
 
 If you zoom way out, MIRA is basically:
 
