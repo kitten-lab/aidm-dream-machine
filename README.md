@@ -16,12 +16,75 @@
 ---
 **dearest present company,**
 
-DOCUMENTATION IS WRETCHED - proceed with wreckless uncertainty.
+# ADM (adm-ka-machina)
 
-`CC` >|make-list...
-- documentation foundation required
-- need `FORESTER` to obtain all considerations previously stated
-- all things are ven
-- if its not a ven, then it should be
-- all great works take time.
+> a co-collaborative narrative environment powered by continuity, consequence, and creative systems.
+
+---
+
+## what is this?
+
+ADM is a system for building and running persistent, interactive narrative worlds.
+
+It allows creators and players to:
+- generate evolving stories that do not reset
+- interact within shared, stateful worlds
+- carry identity, memory, and consequence across time
+
+this is not a chatbot.  
+this is not a static game.
+
+this is a system for **sustained narrative existence**.
+
+---
+
+## core idea
+
+most AI experiences are moment-based.  
+ADM is timeline-based.
+
+stories do not end — they:
+- converge  
+- resolve  
+- continue  
+
+---
+
+## system foundations
+
+- **all things are ven**  
+  everything in the system is a trackable entity
+
+- **narrative is processed, not written**  
+  outcomes are reasoned, then expressed
+
+- **voice is modular (VOX)**  
+  the same event can be experienced differently
+
+- **worlds are instanced timelines**  
+  multiple realities of the same system can exist simultaneously
+
+---
+
+## current state
+
+documentation is under construction.
+
+this repository is being actively rewritten from:
+> mythic fragments → structured system
+
+proceed with curiosity.
+
+---
+
+## next
+
+- [purpose](docs/adm-purpose.md)
+- [system overview](docs/adm-overview.md)
+- [core system](adm-core-system.md)
+- [narrative turn processing loop](adm-narrartive-turn-processing-system.md)
+- [admSTUDIO](docs/adm-studio.md)
+- [vox packs](docs/adm-vox-packs.md)
+- [worlds, universes, and timelines](adm-worlds-universes-and-timelines.md)
+
 
