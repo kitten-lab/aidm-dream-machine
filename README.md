@@ -79,8 +79,11 @@ proceed with curiosity.
 
 ---
 
-## next
+## STATUS
+this is a living system.
+documentation is being actively structured.
 
+start here:
 - [purpose](docs/adm-purpose.md)
 - [system overview](docs/adm-overview.md)
 - [core system](adm-core-system.md)
