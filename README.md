@@ -14,13 +14,15 @@
 `BARA` >|adm, a co-collaborative narrative environment powered by creativity.
 
 ---
-**dearest present company,**
+
+FORMAL INQUIRES SEE BELOW:
 
 # ADM (adm-ka-machina)
 
-> a co-collaborative narrative environment powered by continuity, consequence, and creative systems.
+>| a co-collaborative narrative environment powered by continuity, consequence, and creative systems.
 
 ---
+**dearest present company,**
 
 ## what is this?
 
