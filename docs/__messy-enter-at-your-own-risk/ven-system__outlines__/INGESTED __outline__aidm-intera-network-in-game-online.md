@@ -10,3 +10,5 @@ An “intera network” run within [[The Silo]].
 - A **digital ecology** managed and run by the a-vens in the system but useable by you
 - a **little digital civilization** starting to form and
 - or more like a **simulation experiment** where you could watch social dynamics emerge?
+
+adm*documentation>intera,mirror-web,avens,social-network,mira
